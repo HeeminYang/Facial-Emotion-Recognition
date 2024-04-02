@@ -4,6 +4,9 @@
 This is a code implementation of "[Develop Method To Efficiently Apply Image-Based Facial Emotion Classification Models To Video Data](https://mobihealth.eai-conferences.org/2023/program-at-a-glance/)" presented at mobihealth 2023, a digital healthcare conference held November 29-30, 2023 in Vila Real, Portugal. [The paper will be published in May.
 ](https://link.springer.com/conference/mobihealth)
 
+## paper
+Link
+
 ## Pre-requisites
 Run the following commands to clone this repository and install the required packages.
 ```bash
